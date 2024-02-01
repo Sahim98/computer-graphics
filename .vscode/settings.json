@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "cleardevice",
+        "closegraph",
+        "initwindow",
+        "setbkcolor",
+        "setcolor"
+    ],
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "BLE.C": "cpp",
+        "DDA.C": "cpp",
+        "TCA.C": "cpp",
+        "PCA.C": "cpp"
+    }
+}
